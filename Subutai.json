@@ -54,7 +54,7 @@
             {
                 "name": "drupal",
                 "hostnames": [
-                    "drupal7"
+                    "drupal8"
                 ]
             }
         ]
